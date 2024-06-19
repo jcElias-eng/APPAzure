@@ -1,0 +1,181 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Aplicaciones Moviles\\API NEON\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F53A76EA-9B5A-4F4F-831E-AD37574DC9C8}|APIAgendaNeon\\APIAgendaNeon.csproj|d:\\aplicaciones moviles\\api neon\\apiagendaneon\\function\\personafunction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F53A76EA-9B5A-4F4F-831E-AD37574DC9C8}|APIAgendaNeon\\APIAgendaNeon.csproj|solutionrelative:apiagendaneon\\function\\personafunction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F53A76EA-9B5A-4F4F-831E-AD37574DC9C8}|APIAgendaNeon\\APIAgendaNeon.csproj|d:\\aplicaciones moviles\\api neon\\apiagendaneon\\context\\agendabdcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F53A76EA-9B5A-4F4F-831E-AD37574DC9C8}|APIAgendaNeon\\APIAgendaNeon.csproj|solutionrelative:apiagendaneon\\context\\agendabdcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F53A76EA-9B5A-4F4F-831E-AD37574DC9C8}|APIAgendaNeon\\APIAgendaNeon.csproj|d:\\aplicaciones moviles\\api neon\\apiagendaneon\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F53A76EA-9B5A-4F4F-831E-AD37574DC9C8}|APIAgendaNeon\\APIAgendaNeon.csproj|solutionrelative:apiagendaneon\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F53A76EA-9B5A-4F4F-831E-AD37574DC9C8}|APIAgendaNeon\\APIAgendaNeon.csproj|d:\\aplicaciones moviles\\api neon\\apiagendaneon\\function1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F53A76EA-9B5A-4F4F-831E-AD37574DC9C8}|APIAgendaNeon\\APIAgendaNeon.csproj|solutionrelative:apiagendaneon\\function1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F53A76EA-9B5A-4F4F-831E-AD37574DC9C8}|APIAgendaNeon\\APIAgendaNeon.csproj|d:\\aplicaciones moviles\\api neon\\apiagendaneon\\apiagendaneon.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{F53A76EA-9B5A-4F4F-831E-AD37574DC9C8}|APIAgendaNeon\\APIAgendaNeon.csproj|solutionrelative:apiagendaneon\\apiagendaneon.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F53A76EA-9B5A-4F4F-831E-AD37574DC9C8}|APIAgendaNeon\\APIAgendaNeon.csproj|d:\\aplicaciones moviles\\api neon\\apiagendaneon\\models\\persona.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F53A76EA-9B5A-4F4F-831E-AD37574DC9C8}|APIAgendaNeon\\APIAgendaNeon.csproj|solutionrelative:apiagendaneon\\models\\persona.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F53A76EA-9B5A-4F4F-831E-AD37574DC9C8}|APIAgendaNeon\\APIAgendaNeon.csproj|d:\\aplicaciones moviles\\api neon\\apiagendaneon\\models\\telefono.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F53A76EA-9B5A-4F4F-831E-AD37574DC9C8}|APIAgendaNeon\\APIAgendaNeon.csproj|solutionrelative:apiagendaneon\\models\\telefono.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4AB136A4-B75F-4F51-AA80-E270FCE449B1}|ConsoleApp1\\ConsoleApp1.csproj|d:\\aplicaciones moviles\\api neon\\consoleapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4AB136A4-B75F-4F51-AA80-E270FCE449B1}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4AB136A4-B75F-4F51-AA80-E270FCE449B1}|ConsoleApp1\\ConsoleApp1.csproj|d:\\aplicaciones moviles\\api neon\\consoleapp1\\consoleapp1.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{4AB136A4-B75F-4F51-AA80-E270FCE449B1}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\consoleapp1.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F53A76EA-9B5A-4F4F-831E-AD37574DC9C8}|APIAgendaNeon\\APIAgendaNeon.csproj|d:\\aplicaciones moviles\\api neon\\apiagendaneon\\local.settings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{F53A76EA-9B5A-4F4F-831E-AD37574DC9C8}|APIAgendaNeon\\APIAgendaNeon.csproj|solutionrelative:apiagendaneon\\local.settings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PersonaFunction.cs",
+              "DocumentMoniker": "D:\\Aplicaciones Moviles\\API NEON\\APIAgendaNeon\\Function\\PersonaFunction.cs",
+              "RelativeDocumentMoniker": "APIAgendaNeon\\Function\\PersonaFunction.cs",
+              "ToolTip": "D:\\Aplicaciones Moviles\\API NEON\\APIAgendaNeon\\Function\\PersonaFunction.cs",
+              "RelativeToolTip": "APIAgendaNeon\\Function\\PersonaFunction.cs",
+              "ViewState": "AQIAALgAAAAAAAAAAAAcwKYAAABjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-16T00:44:56.626Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Aplicaciones Moviles\\API NEON\\APIAgendaNeon\\Program.cs",
+              "RelativeDocumentMoniker": "APIAgendaNeon\\Program.cs",
+              "ToolTip": "D:\\Aplicaciones Moviles\\API NEON\\APIAgendaNeon\\Program.cs",
+              "RelativeToolTip": "APIAgendaNeon\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-15T22:29:04.412Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Function1.cs",
+              "DocumentMoniker": "D:\\Aplicaciones Moviles\\API NEON\\APIAgendaNeon\\Function1.cs",
+              "RelativeDocumentMoniker": "APIAgendaNeon\\Function1.cs",
+              "ToolTip": "D:\\Aplicaciones Moviles\\API NEON\\APIAgendaNeon\\Function1.cs",
+              "RelativeToolTip": "APIAgendaNeon\\Function1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAABKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-15T22:28:51.973Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AgendaBdContext.cs",
+              "DocumentMoniker": "D:\\Aplicaciones Moviles\\API NEON\\APIAgendaNeon\\Context\\AgendaBdContext.cs",
+              "RelativeDocumentMoniker": "APIAgendaNeon\\Context\\AgendaBdContext.cs",
+              "ToolTip": "D:\\Aplicaciones Moviles\\API NEON\\APIAgendaNeon\\Context\\AgendaBdContext.cs",
+              "RelativeToolTip": "APIAgendaNeon\\Context\\AgendaBdContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAA/AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-16T00:09:39.127Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Telefono.cs",
+              "DocumentMoniker": "D:\\Aplicaciones Moviles\\API NEON\\APIAgendaNeon\\Models\\Telefono.cs",
+              "RelativeDocumentMoniker": "APIAgendaNeon\\Models\\Telefono.cs",
+              "ToolTip": "D:\\Aplicaciones Moviles\\API NEON\\APIAgendaNeon\\Models\\Telefono.cs",
+              "RelativeToolTip": "APIAgendaNeon\\Models\\Telefono.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAIBJwBAAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-15T23:56:51.589Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "APIAgendaNeon.csproj",
+              "DocumentMoniker": "D:\\Aplicaciones Moviles\\API NEON\\APIAgendaNeon\\APIAgendaNeon.csproj",
+              "RelativeDocumentMoniker": "APIAgendaNeon\\APIAgendaNeon.csproj",
+              "ToolTip": "D:\\Aplicaciones Moviles\\API NEON\\APIAgendaNeon\\APIAgendaNeon.csproj",
+              "RelativeToolTip": "APIAgendaNeon\\APIAgendaNeon.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAABnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-06-15T22:28:57.822Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Persona.cs",
+              "DocumentMoniker": "D:\\Aplicaciones Moviles\\API NEON\\APIAgendaNeon\\Models\\Persona.cs",
+              "RelativeDocumentMoniker": "APIAgendaNeon\\Models\\Persona.cs",
+              "ToolTip": "D:\\Aplicaciones Moviles\\API NEON\\APIAgendaNeon\\Models\\Persona.cs",
+              "RelativeToolTip": "APIAgendaNeon\\Models\\Persona.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAgAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-15T23:56:16.433Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Aplicaciones Moviles\\API NEON\\ConsoleApp1\\Program.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\Program.cs",
+              "ToolTip": "D:\\Aplicaciones Moviles\\API NEON\\ConsoleApp1\\Program.cs",
+              "RelativeToolTip": "ConsoleApp1\\Program.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAgwCUAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-15T22:44:46.04Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ConsoleApp1.csproj",
+              "DocumentMoniker": "D:\\Aplicaciones Moviles\\API NEON\\ConsoleApp1\\ConsoleApp1.csproj",
+              "RelativeDocumentMoniker": "ConsoleApp1\\ConsoleApp1.csproj",
+              "ToolTip": "D:\\Aplicaciones Moviles\\API NEON\\ConsoleApp1\\ConsoleApp1.csproj",
+              "RelativeToolTip": "ConsoleApp1\\ConsoleApp1.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-06-15T22:44:44.167Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "local.settings.json",
+              "DocumentMoniker": "D:\\Aplicaciones Moviles\\API NEON\\APIAgendaNeon\\local.settings.json",
+              "RelativeDocumentMoniker": "APIAgendaNeon\\local.settings.json",
+              "ToolTip": "D:\\Aplicaciones Moviles\\API NEON\\APIAgendaNeon\\local.settings.json",
+              "RelativeToolTip": "APIAgendaNeon\\local.settings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-06-15T23:52:26.495Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
